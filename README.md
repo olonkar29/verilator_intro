@@ -1,10 +1,12 @@
 # Verilator Introduction Labs
 
-Created to teach myself Verilator and making testbenches.
+Created to teach myself Verilator and making (vibe coding) testbenches.
 
 ## Contents
 
 1. Priority encoder
 2. Full adder and 4-bit ripple carry adder
 3. T Flip flop
+4. Counter
+5. Traffic Light FSM
 4. TBD
