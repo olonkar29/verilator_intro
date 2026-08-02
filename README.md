@@ -6,4 +6,5 @@ Created to teach myself Verilator and making testbenches.
 
 1. Priority encoder
 2. Full adder and 4-bit ripple carry adder
-3. TBD
+3. T Flip flop
+4. TBD
